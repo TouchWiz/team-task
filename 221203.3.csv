@@ -1,0 +1,27 @@
+manufacturer,model,year,units_sold_m,Battery,Memory,Display_Size,Primary_Camera,Front_Camera,DesignScore,ReleasePrice
+Samsung,Galaxy S20 and S20+,2020,18.6,4250,12,6.45,12,10,1.163754055,1099
+Apple,"iPhone 12, 12 Pro and 12 Pro Max",2020,100,3106,5,6.3,12,12,0.249865342,966
+Samsung,"Galaxy S10, S10+, S10e",2019,36.9,3533,7,6.1,12,10,0.374305182,882
+Apple,"iPhone 11, 11 Pro and 11 Pro Max",2019,159.18,3375,4,6.1,12,12,0.80607,932
+Samsung,Galaxy S9 and S9+,2018,34.4,3250,5,6,12,8,0.73089,779
+Samsung,Galaxy Note 9,2018,9.6,4000,6,6.4,12,8,0.879231393,999
+Apple,"iPhone XR, XS and XS Max",2018,150.9,2927,4,6.1,12,7,0.677682497,949
+Samsung,Galaxy S8,2017,41,3250,4,6,12,8,0.666424572,799
+Samsung,Galaxy Note 8,2017,10,3300,6,6.3,12,8,0.926147822,930
+Apple,iPhone X,2017,63,2716,3,5.8,12,7,0.642808112,999
+Apple,iPhone 8 and 8 Plus,2017,124.7,2256,2.5,5.1,12,7,0.660246852,749
+Samsung,Galaxy S7 and S7 edge,2016,45,3300,4,5.3,12,5,0.062675219,719
+Apple,iPhone 7 and 7 Plus,2016,159.9,2430,2.5,5.1,12,7,0.810121143,709
+Samsung,Galaxy S6 and S6 edge,2015,45,2575,3,5.1,16,5,0.783855706,699
+Apple,iPhone 6S and 6S Plus,2015,174.1,2233,2,5.1,12,5,0.829793763,200.03
+Samsung,Galaxy Note 4,2014,4.5,3220,3,5.7,16,3.7,0.783855706,700
+Apple,iPhone 6 and iPhone 6 Plus,2014,224,2363,1,5.1,8,1.2,0.811933012,699
+Samsung,Galaxy Note 3,2013,10,3200,3,5.7,13,2,0.783855706,700
+Apple,iPhone 5S,2013,164.5,1570,1,4,8,1.2,0.632575758,649
+Samsung,Galaxy S III,2012,35,2100,1,4.8,8,1.9,0.783855706,599
+Samsung,Galaxy S II,2011,40,1650,1,4.3,8,2,0.783855706,549
+Apple,iPhone 4S,2011,60,1420,0.5,3.5,8,0.3,0.658243663,649
+Samsung,Galaxy S,2010,25,1500,0.5,4,5,0.3,0.783855706,399
+Apple,iPhone 4,2010,50,1420,0.5,3.5,5,0.3,1.227167751,649
+Apple,iPhone 3GS,2009,35,1219,0.25,3.5,3,0,1.158563659,499
+Apple,iPhone,2007,6,1400,0.1,3.5,2,0,0.783855706,499
